@@ -9,7 +9,7 @@
 # Parameters - fill these in before running the script!
 # =====================================================
 
-$clientId = "cf38b687-e170-48bb-8954-2023c36269d8" 
+$clientId = "1234" 
 
 # End Parameters =======================================
 
